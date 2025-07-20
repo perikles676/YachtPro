@@ -1,2 +1,2 @@
 # YachtPro
-Web app for YAchtPro created with App Alchemy AI
+Web app for YachtPro created with App Alchemy AI
